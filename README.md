@@ -1,2 +1,2 @@
 # Simulasi-Stasiun-Radio
-thesis about radio simulation in the mathematics department
+Undergraduate thesis about radio simulation in the mathematics department
